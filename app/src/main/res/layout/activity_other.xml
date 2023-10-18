@@ -15,36 +15,43 @@
 
         <Button
             android:id="@+id/buttonForSave"
-            android:layout_width="wrap_content"
+            android:layout_width="279dp"
             android:layout_height="wrap_content"
-            android:text="Save"
             android:backgroundTint="@color/white"
-            android:textColor="@color/black"/>
+            android:text="SAVE"
+            android:textColor="@color/black"
+            android:textSize="40sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/buttonForShare"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Share"
+            android:layout_width="274dp"
+            android:layout_height="69dp"
             android:backgroundTint="@color/white"
+            android:text="SHARE"
             android:textColor="@color/black"
-            />
+            android:textSize="40sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/buttonForNew"
-            android:layout_width="wrap_content"
+            android:layout_width="275dp"
             android:layout_height="wrap_content"
-            android:text="New"
             android:backgroundTint="@color/white"
-            android:textColor="@color/black"/>
+            android:text="NEW"
+            android:textColor="@color/black"
+            android:textSize="40sp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/buttonForBack"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Back"
+            android:layout_width="274dp"
+            android:layout_height="66dp"
             android:backgroundTint="@color/white"
-            android:textColor="@color/black"/>
+            android:text="BACK"
+            android:textColor="@color/black"
+            android:textSize="40sp"
+            android:textStyle="bold" />
 
     </LinearLayout>
 

@@ -53,9 +53,10 @@
             android:backgroundTint="@color/white"
             android:fontFamily="@font/poppins_medium"
             android:text="Manage Routes"
-            android:textSize="20sp"
+            android:textSize="34sp"
             tools:ignore="MissingConstraints"
-            android:textColor="#FF000000" />
+            android:textColor="#FF000000"
+            android:textStyle="bold"/>
 
         <Button
             android:id="@+id/mainLoginBtn"
@@ -66,9 +67,10 @@
             android:backgroundTint="@color/white"
             android:fontFamily="@font/poppins_medium"
             android:text="Login"
-            android:textSize="20sp"
+            android:textSize="34sp"
             tools:ignore="MissingConstraints"
-            android:textColor="@color/black" />
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
 
         <Button
             android:id="@+id/mainRegisterBtn"
@@ -79,9 +81,10 @@
             android:backgroundTint="@color/white"
             android:fontFamily="@font/poppins_medium"
             android:text="Register"
-            android:textSize="20sp"
+            android:textSize="34sp"
             tools:ignore="MissingConstraints"
-            android:textColor="@color/black" />
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
 
     </LinearLayout>
 
